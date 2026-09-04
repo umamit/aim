@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Live TV", 204
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd?hdntl=exp=1788491348~acl=%2fstream%2f204%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=7866868bcfaaead454414f9dc8aba71e771c48ed17148448e317a34bba785e40|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 8237
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/8237/res=1080p/file/stream.mpd?hdntl=exp=1788491352~acl=%2fstream%2f8237%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=6f0e344e2c31d999cde8d2771f47f4c14ca7ae1d8ef30a69e8ebae8f93a15f49|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 204 sctv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/res=1080p/file/stream.mpd?hdntl=exp=1788491348~acl=%2fstream%2f204%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f204%2ffile%2f*%2faac%2f*!%2fstream%2f204%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f204%2ffile%2f*%2f*-720p%2f*!%2fstream%2f204%2ffile%2f*%2f*-480p%2f*!%2fstream%2f204%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=7866868bcfaaead454414f9dc8aba71e771c48ed17148448e317a34bba785e40|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 782
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/782/res=1080p/file/stream.mpd?hdntl=exp=1788491370~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=5a031be5c66575b08fe8881abc75fd6f856fe04fed6193201095fdb66958e60d|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 205 indosiar
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1788491385~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=283faf37a926fbefcd617be8a819dc892f59af8194a9722b3543e557c55e97c8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 783 tvone
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/783/res=1080p/file/stream.mpd?hdntl=exp=1788491413~acl=%2fstream%2f783%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f783%2ffile%2f*%2faac%2f*!%2fstream%2f783%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f783%2ffile%2f*%2f*-720p%2f*!%2fstream%2f783%2ffile%2f*%2f*-480p%2f*!%2fstream%2f783%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=3e90efdc5ce4b97dfe6bc10f37236cbdd6d490246a59255fb67520c867ba12a0|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 782 antv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/782/res=1080p/file/stream.mpd?hdntl=exp=1788491430~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=bee864882d347ad2649283cde02579a30286dd1bbed0fe56429eeefc16923c11|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 777 metro tv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/777/res=1080p/file/stream.mpd?hdntl=exp=1788491448~acl=%2fstream%2f777%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f777%2ffile%2f*%2faac%2f*!%2fstream%2f777%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f777%2ffile%2f*%2f*-720p%2f*!%2fstream%2f777%2ffile%2f*%2f*-480p%2f*!%2fstream%2f777%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=24b1ffd411f919719bac01523803d4781d55b4579e72f9a782078fe33c3d31d8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 1561 rtv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/1561/res=1080p/file/stream.mpd?hdntl=exp=1788491502~acl=%2fstream%2f1561%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f1561%2ffile%2f*%2faac%2f*!%2fstream%2f1561%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f1561%2ffile%2f*%2f*-720p%2f*!%2fstream%2f1561%2ffile%2f*%2f*-480p%2f*!%2fstream%2f1561%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=57b4ac987b64b2181666292427037613fd8ad097e01bcb579cdd989e5199b154|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 6441 tvri
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/6441/res=1080p/file/stream.mpd?hdntl=exp=1788491507~acl=%2fstream%2f6441%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f6441%2ffile%2f*%2faac%2f*!%2fstream%2f6441%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-720p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-480p%2f*!%2fstream%2f6441%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=49a28df30e9d6c38985c08f929131fe1138353db931fff8d6bd7577cd6a05c7b|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 8237 mentari tv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/8237/res=1080p/file/stream.mpd?hdntl=exp=1788491511~acl=%2fstream%2f8237%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cf2e3fd116fc10e4ac96c5729c2c76984731e97d10d5ce5826a60385195b0a38|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 875 mdtv
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/875/res=1080p/file/stream.mpd?hdntl=exp=1788491515~acl=%2fstream%2f875%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f875%2ffile%2f*%2faac%2f*!%2fstream%2f875%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f875%2ffile%2f*%2f*-720p%2f*!%2fstream%2f875%2ffile%2f*%2f*-480p%2f*!%2fstream%2f875%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=f08a72adc12874ee0302b6d9361c725c4ce247f063378137bc03f9f17772878a|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
+
+#EXTINF:-1 group-title="Live TV", 18280 berita satu
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/18280/res=1080p/file/stream.mpd?hdntl=exp=1788505620~acl=%2fstream%2f18280%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f18280%2ffile%2f*%2faac%2f*!%2fstream%2f18280%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f18280%2ffile%2f*%2f*-720p%2f*!%2fstream%2f18280%2ffile%2f*%2f*-480p%2f*!%2fstream%2f18280%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=b04ed110abb46ea30f57bed45a34649fa3b684ca3d72f6e42cac519adfa95e2e|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)&Referer=https%3A%2F%2Fwww.vidio.com%2F
